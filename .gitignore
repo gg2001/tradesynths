@@ -328,3 +328,5 @@ build/
 # OpenZeppelin
 .openzeppelin/dev-*.json
 .openzeppelin/.session
+
+.replit
