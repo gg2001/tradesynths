@@ -1,3 +1,3 @@
 # TradeSynths
 
-![CI](https://github.com/gg2001/levered/workflows/CI/badge.svg)
+![CI](https://github.com/gg2001/tradesynths/workflows/CI/badge.svg)
